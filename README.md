@@ -4,9 +4,9 @@
 
 ## Reminder and Checklist
 
-[-] Delete Baidu Map、JUHE Data、HeFeng Weather、NewsApi key
+Delete Baidu Map、JUHE Data、HeFeng Weather、NewsApi key
 
-[-] Complete readme
+Complete readme
 
 ## Introduction
 
@@ -39,7 +39,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 If used for course homework or commercial situation, it should subject to the following conditions: Be sure to assert the author's name and details in the project with obvious position.
 
-For the detail, read the complete [copyright]() here.
+For the detail, read the complete [copyright](./LISENCE) here.
 
 ## Build Setup
 
