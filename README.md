@@ -1,12 +1,22 @@
-# city-news-mashup
 
+
+# city-news-mashup
+  
 > A mashup project with city news, developed for the Cloud Computing course.
+
+<div style="float:left;"> 
+<img src="https://img.shields.io/badge/deploy-success-brightgreen.svg?style=popout&logo=dev.to" alt="Build Status">  <img src="https://img.shields.io/badge/version-1.0-green.svg?style=popout&logo=dev.to" alt="Version">
+<img src="https://img.shields.io/badge/npm-v2.6.10-blue.svg?style=popout&logo=npm" alt="Version">
+<img src="https://img.shields.io/badge/license-MIT-red.svg?style=popout&logo=dev.to" alt="License">
+<img src="https://img.shields.io/badge/chat-on%20discord-7289da.svg?style=popout&logo=wechat" alt="Chat">
+</div>
+
 
 ## Reminder and Checklist
 
-[] Delete Baidu Map、JUHE Data、HeFeng Weather、NewsApi key
+[ ] Delete Baidu Map、JUHE Data、HeFeng Weather、NewsApi key
 
-[] Complete readme
+[ ] Complete readme
 
 ## Introduction
 
