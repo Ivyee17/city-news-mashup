@@ -20,7 +20,7 @@
 
 ## Introduction
 
-Page preview: [Click here]([http://13.113.117.126:8080/dist/).
+Page preview: [Click here](http://13.113.117.126:8080/dist/).
 
 A mashup project with Vue.js frame. This is the first complete Vue Project for me, using only basic grammar and characteristics, which is also friendly to the starter of Vue.js frame. 
 
